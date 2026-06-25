@@ -1,5 +1,5 @@
 # about-ernest
-VP of Technical Services bridging executive leadership with real-world engineering, infrastructure, and automation.
+Executive leadership with real-world engineering, infrastructure, and automation.
 # 👋 Hi, I'm Ernest
 
 I’m a VP of Technical Services with a passion for building reliable systems, automating infrastructure, and leading high-performance teams. I thrive at the intersection of strategy and hands-on execution — writing code, managing cloud infrastructure, and solving real-world operational challenges.
